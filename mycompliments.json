@@ -1,0 +1,21 @@
+{
+    "anytime" : [
+        "Hey ciao come butta"
+    ],
+    "morning" : [
+        "Buongiorno, il sole è sorto",
+        "caffè?",
+        "il mattino ha l'oro in bocca"
+    ],
+    "afternoon" : [
+        "è ora di fare un riposino",
+        "stai facendo la differenza continua così",
+        "siamo nel pomeriggio"
+    ],
+    "evening" : [
+        "buona sera!",
+        "che film guarderai?",
+        "è stata una bella giornata?"
+    ]
+}
+
